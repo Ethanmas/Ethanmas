@@ -4,7 +4,7 @@
 
 <img align="left" width="47%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Ethanmas&layout=compact"/>
 
-I like working with these 3 programs.
+I like working with these programs.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
